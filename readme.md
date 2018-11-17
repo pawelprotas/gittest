@@ -1,0 +1,1 @@
+This is my new test project in GIT
